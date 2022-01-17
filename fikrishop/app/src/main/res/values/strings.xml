@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">pomato shop</string>
+    <string name="harga">Rp 8.999.000</string>
+    <string name="_7_photos">5 Photos</string>
+    <string name="deskripsi">Melihat antusiasme konsumen pada Galaxy S20 FE dan lini produk Galaxy S21, maka kami memutuskan untuk menggunakan pendekatan yang sama dalam merancang Galaxy S21 FE 5G, membekalinya dengan berbagai fitur premium yang selalu dicintai oleh pengguna setia Galaxy. Karena hal tersebut, kami berfokus untuk menghadirkan smartphone untuk memenuhi kebutuhan konsumen setia kami</string>
+    <string name="desc1">Body</string>
+    <string name="desc2">Dimensi  74, x 155,7 x 7,9 mm \nBobot 177 g</string>
+    <string name="desc3">Layar</string>
+    <string name="desc4">6.4 inci\n2400 x 1080 FHD+\nLCD Dynamic AMOLED</string>
+    <string name="desc5">Chipset n OS</string>
+    <string name="desc6">Chipset Qualcomm SM8350 Snapdragon 888 5G (5 nm) Android 10, MIUI 11</string>
+    <string name="desc7">Memori</string>
+    <string name="desc8">6GB RAM + 128GB ROM\n8GB RAM + 256GB ROM\nmicroSD hingga 512GB</string>
+    <string name="desc9">Samsung Galaxy S21 FE 5G 8/128 GB</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO2</string>
+    <string name="tombol_menu">TODO3</string>
+    <string name="tombolcartreal">TODO4</string>
+    <string name="desc10">Kamera Utama</string>
+    <string name="desc11">camera 12MP, f/1.9, (wide); 12MP, f/2.2, 119˚ (ultrawide); 8MP, f/2.4, (telephoto); \nResolusi video 4K@60fps, 1080p@30/60/120fps, 720p@960fps</string>
+    <string name="desc12">Kamera Depan</string>
+    <string name="desc13">Single 32MP, f/2.5, (wide) \nResolusi video UHD 4K (3840 x 2160) @60fpss</string>
+    <string name="desc14">Baterai</string>
+    <string name="desc15">4,500 mAh \nFast charging 25W</string>
+    <string name="desc16">Fitur</string>
+    <string name="desc17">USB Type-C\nNFC : Yes\nBluetooth v5.0 \nSensor sidik jari \nDual SIM AI Face unlock \n3,5mm jack headphone</string>
+    <string name="tombol_beli">Buy Now</string>
+    <string name="tombol_tocart">Add To Cart</string>
+    <string name="tombol_chat">TODO</string>
+</resources>
